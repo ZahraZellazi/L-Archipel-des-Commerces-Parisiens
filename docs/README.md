@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>📊 Analyse des Terrasses à Paris - README</title>
-<style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; color: #333; line-height: 1.6; }
-    h1 { text-align: center; color: #FECA55; font-size: 36px; font-weight: bold; margin-bottom: 20px; }
-    h2 { color: #EF806C; font-size: 28px; font-weight: bold; margin-top: 30px; }
-    h3 { color: #00FFFF; font-size: 22px; margin-top: 20px; }
-    ul { margin-left: 20px; }
-    li { margin: 8px 0; }
-    p { margin: 10px 0; }
-    code { background-color: #eee; padding: 2px 5px; border-radius: 3px; }
-    pre { background-color: #eee; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    table { border-collapse: collapse; margin-top: 20px; width: 100%; }
-    th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
-    th { background-color: #EF806C; color: white; }
-    hr { height: 2px; border: none; background-color: #FECA55; margin: 20px 0; }
-</style>
-</head>
-<body>
 
 <h1>📊 Analyse des Terrasses à Paris</h1>
 
@@ -104,7 +82,7 @@ jupyter notebook
 <p>Ce projet démontre que l’analyse spatiale combinée à des algorithmes de clustering (notamment HDBSCAN) est efficace pour détecter des hotspots de terrasses à Paris. Les résultats fournissent des informations stratégiques pour acteurs commerciaux et urbanistes, avec une méthodologie transparente et reproductible.</p>
 
 <hr>
-<p style="text-align:center;">📚 Projet réalisé par [Ton Nom] - Data Science & Analyse Spatiale - 2025</p>
+<p style="text-align:center;">📚 Projet réalisé par Zahra Zellazi - Data Science & IA Engineering student - 2025</p>
 
 </body>
 </html>

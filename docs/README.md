@@ -34,7 +34,6 @@ base_url = f"https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/{datase
     <li><b>Préparation des données :</b> Nettoyage, standardisation, encodage des typologies, gestion des valeurs manquantes.</li>
     <li><b>Modélisation :</b> Clustering non supervisé avec DBSCAN, OPTICS et HDBSCAN.</li>
     <li><b>Évaluation :</b> Nombre de clusters, couverture, bruit, silhouette, persistence.</li>
-    <li><b>Déploiement :</b> Visualisations interactives et reporting clair pour décisionnaires.</li>
 </ul>
 
 <h2>🛠 Technologies et librairies</h2>
